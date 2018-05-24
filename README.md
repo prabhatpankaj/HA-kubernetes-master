@@ -12,7 +12,7 @@ load balancer address = 10.0.0.200
 
 * create functional cluster on three master nodes.
 
-# for 1st master nodes
+* for 1st master nodes
 ```
 kubeadm token generate
 ```
